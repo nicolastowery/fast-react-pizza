@@ -8,7 +8,7 @@ function SearchOrder() {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!query) return;
-    navigate(`/order/${query}`);
+    navigate(`/fast-react-pizza/order/${query}`);
     setQuery("");
   };
   return (
