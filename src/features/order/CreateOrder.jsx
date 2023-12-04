@@ -168,7 +168,7 @@ export async function action({ request }) {
   // don't overuse this technique, it deactivates a lot of performance optimization with redux on this page
   // have to do this approach in order to get the store in this function
   store.dispatch(clearCart());
-  return redirect(`/fast-react-pizza/order/${newOrder.id}`);
+  return redirect(`/order/${newOrder.id}`);
 }
 
 export default CreateOrder;

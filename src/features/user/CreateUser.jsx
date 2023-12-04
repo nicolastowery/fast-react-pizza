@@ -15,7 +15,7 @@ function CreateUser() {
 
     if (!username) return;
     dispatch(updateName(username));
-    navigate("/fast-react-pizza/menu");
+    navigate("/menu");
   }
 
   return (
