@@ -1,5 +1,5 @@
-# [fast-react-pizza](https://nicolastowery.github.io/fast-react-pizza/)
-View live demo [here!](https://nicolastowery.github.io/fast-react-pizza/)
+# [fast-react-pizza](https://fast-react-pizza-towery.vercel.app/)
+View live demo [here!](https://fast-react-pizza-towery.vercel.app/)
 
 ## Description
 
@@ -30,6 +30,4 @@ Fast React Pizza is a faux-store where users can create, view, and update orders
 
 ## Notes
 
-- This repository was created in order to host this project on [GitHub Pages.](https://nicolastowery.github.io/fast-react-pizza/) The original project was version controlled in a [private repository.](https://github.com/nicolastowery/udemy-react-course)
-
-- There are issues related to refreshing the page. This is because Github Pages is incompatible with React SPA's
+- This repository was created in order to host this project on [Vercel.](https://fast-react-pizza-towery.vercel.app/) The original project was version controlled in a [private repository.](https://github.com/nicolastowery/udemy-react-course)
